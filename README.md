@@ -1,8 +1,8 @@
 # Introdução ao JavaScript
 ## Curso JavaScript: Programando na linguagem da web
 
-- [ ] Introdução
-- [ ] Variáveis e Operadores
+- [x] Introdução
+- [x] Variáveis e Operadores
 - [ ] Arrays, Loop e Estilos
 - [ ] Eventos, Formulários e Criando Elementos
 - [ ] Boas Práticas com Javascript
